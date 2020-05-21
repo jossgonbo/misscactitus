@@ -141,7 +141,7 @@ ul li {
 }
 #cactitus img{
   position: absolute;
-  left: 100px;
+  left: 35px;
   top: 35px;
   width: 338.594px;
   height: 47.344px;
@@ -150,7 +150,7 @@ ul li {
 
 #contacto{
 	position: absolute;
-  left: 500px;
+  left: 150px;
   top: 35px;
   width: 34px;
   height: 33px;
@@ -165,7 +165,7 @@ ul li {
   line-height: 1.875;
   text-align: left;
   position: absolute;
-  left: 520px;
+  left: 170px;
   top: 15px;
   width: 140px;
   height: 12px;
@@ -173,7 +173,7 @@ ul li {
 }
 #redes{
 	position: absolute;
-  left: 800px;
+  left: 300px;
   top: 35px;
   width: 64px;
   height: 33px;
@@ -186,7 +186,7 @@ ul li {
   line-height: 1.875;
   text-align: left;
   position: absolute;
-  left: 870px;
+  left: 320px;
   top: 15px;
   width: 115px;
   height: 14px;
@@ -200,7 +200,7 @@ ul li {
   line-height: 0.001;
   text-align: justifyLeft;
   position: absolute;
-  left: 900px;
+  left: 200px;
   top: 65px;
   width: 426px;
   height: 13px;
@@ -213,7 +213,7 @@ ul li {
   line-height: 0.001;
   text-align: center;
   position: absolute;
-  left: 945px;
+  left: 245px;
   top: 80px;
   width: 280px;
   height: 12px;
