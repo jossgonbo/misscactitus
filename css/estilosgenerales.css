@@ -150,7 +150,7 @@ ul li {
 
 #contacto{
 	position: absolute;
-  left: -150px;
+  padding-left: 150px;
   top: 35px;
   width: 34px;
   height: 33px;
